@@ -1,0 +1,16 @@
+clisize: 16
+srvsize: 16
+Server Listening
+[srv]: idle
+Clients Port is 9000
+Client FD is 3
+Client connected to server
+Connection accepted from 127.0.0.1:56392 <-- hier drum geht es
+[recv] Ping
+[recv] Ping
+[recv] Ping
+[recv] Ping
+[recv] Ping
+
+Client Exit
+[srv]: idle
